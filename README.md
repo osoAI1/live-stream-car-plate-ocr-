@@ -1,7 +1,6 @@
-# Tha Dataset
- [link](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
+# The Dataset:  [Link of data](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
+# This data not pre_trained: to train it use yolo command to get -----> "license_plate_detector.pt"
 # Resize: Stretch to 640x640
-
 # Tha Dataset have 4 VERSIONS
 
 
